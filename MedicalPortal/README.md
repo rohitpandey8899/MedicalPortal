@@ -1,2 +1,0 @@
-# Global Medical Database Website
-
